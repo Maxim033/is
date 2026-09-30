@@ -1,0 +1,393 @@
+.popupmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #828990; LINE-HEIGHT: 10px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.popupmenuact {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #828990; LINE-HEIGHT: 10px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.topmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 11px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.topmenuact {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 11px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.leftmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; VERTICAL-ALIGN: middle; COLOR: #9ba0a5; LINE-HEIGHT: 10px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.leftmenuact {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; VERTICAL-ALIGN: middle; COLOR: #9ba0a5; LINE-HEIGHT: 10px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.leftmenuact {
+	COLOR: #e0e1e3
+}
+.bottommenu {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #22405a; LINE-HEIGHT: 14px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.bottommenuact {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #22405a; LINE-HEIGHT: 14px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.bottommenubar {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #22405a; LINE-HEIGHT: 14px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.bottommenubar {
+	WIDTH: 97%; TEXT-ALIGN: center
+}
+.lang {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #828990; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.langact {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #828990; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.langact {
+	TEXT-DECORATION: none
+}
+.smalltext {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.smalltextwhite {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.smalltextblack {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.baskettext {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.smalltext {
+	COLOR: #776c41
+}
+.smalltextwhite {
+	COLOR: #ffffff
+}
+.smalltextblack {
+	COLOR: #000000
+}
+.baskettext {
+	COLOR: #ffffff
+}
+.chain {
+	FONT-SIZE: 11px; COLOR: #255bcb; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.newstext {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #828990; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.newsdata {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #828990; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.newsdatab {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #828990; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.newsdata {
+	COLOR: #ff4c1e
+}
+.newsdatab {
+	FONT-WEIGHT: bold; COLOR: #828990
+}
+.titletext {
+	FONT-WEIGHT: normal; FONT-SIZE: 25px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: vrinda; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.subtitletext {
+	LINE-HEIGHT: 11px
+}
+.errortext {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; FONT-FAMILY: Arial
+}
+.oktext {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; FONT-FAMILY: Arial
+}
+.notetext {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; FONT-FAMILY: Arial
+}
+.errortext {
+	COLOR: red
+}
+.oktext {
+	COLOR: #828990
+}
+.notetext {
+	COLOR: green
+}
+.copy {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #828990; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tableheads {
+	BACKGROUND-COLOR: #fcfdfe
+}
+.tableborders {
+	BACKGROUND-COLOR: #39382b
+}
+.incborder {
+	BORDER-RIGHT: #c1e6ff 1px solid; BORDER-TOP: #c1e6ff 1px solid; BORDER-LEFT: #c1e6ff 1px solid; BORDER-BOTTOM: #c1e6ff 1px solid
+}
+.incimage {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(/bitrix/templates/demo/images/include_corner.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #c6dff5
+}
+.incbg {
+	BACKGROUND-COLOR: #c6dff5
+}
+.sectincborder {
+	BORDER-RIGHT: #c1e6ff 1px solid; BORDER-TOP: #c1e6ff 1px solid; BORDER-LEFT: #c1e6ff 1px solid; BORDER-BOTTOM: #c1e6ff 1px solid
+}
+.sectincimage {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(/bitrix/templates/demo/images/include_sect_corner.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #9bd0fc
+}
+.sectincbg {
+	BACKGROUND-COLOR: #9bd0fc
+}
+.mainincbg {
+	HEIGHT: 18px
+}
+.mainincline {
+	BACKGROUND: url(/images/incline.gif) #ffffff repeat-x right top; HEIGHT: 7px
+}
+HR {
+	COLOR: #bdcede; HEIGHT: 1px
+}
+.inputfield {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputbuttonflat {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputbuttonS {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputfield {
+	BORDER-RIGHT: #232e33 1px solid; BORDER-TOP: #232e33 1px solid; BORDER-LEFT: #232e33 1px solid; COLOR: #828990; BORDER-BOTTOM: #232e33 1px solid; BACKGROUND-COLOR: #ece9d8
+}
+.inputbuttonflat {
+	BORDER-RIGHT: #3b4a52 1px solid; BORDER-TOP: #3b4a52 1px solid; BORDER-LEFT: #3b4a52 1px solid; COLOR: #965a1f; BORDER-BOTTOM: #3b4a52 1px solid; BACKGROUND-COLOR: #d7cc98
+}
+.inputbuttonS {
+	FONT-WEIGHT: bold
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; MARGIN: 0px; COLOR: #965a1f; LINE-HEIGHT: 25px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px; TEXT-TRANSFORM: none; COLOR: #965a1f; LINE-HEIGHT: 12px; FONT-FAMILY: Tahoma; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px; TEXT-TRANSFORM: none; COLOR: #965a1f; LINE-HEIGHT: 12px; FONT-FAMILY: Tahoma; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.smallH2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px; TEXT-TRANSFORM: none; COLOR: #965a1f; LINE-HEIGHT: 12px; FONT-FAMILY: Tahoma; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+H4 {
+	COLOR: #8f0000
+}
+.H4 {
+	COLOR: #8f0000
+}
+.smallH2 {
+	FONT-SIZE: 11px
+}
+.maininctitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; MARGIN: 0px; COLOR: #a89943; LINE-HEIGHT: 15px; FONT-FAMILY: "Lucida Sans Unicode", Arial; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.tableborder {
+	BACKGROUND-COLOR: #776c41
+}
+.tablehead {
+	COLOR: #e0cd61; BACKGROUND-COLOR: #965a1f
+}
+.tablebody {
+	BACKGROUND-COLOR: #e5e2bd
+}
+.tablenullbody {
+	BACKGROUND-COLOR: #e5e2bd
+}
+.tablebodytext {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tablefieldtext {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tabletitletext {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tableheadtext {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tablebodylink {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tableheadlink {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tableheadtext {
+	COLOR: #e0cd61
+}
+.tablebodytext {
+	COLOR: #3b340e
+}
+.tablefieldtext {
+	COLOR: #686940
+}
+.tablebodylink {
+	COLOR: #99830b
+}
+.tablebodylink {
+	TEXT-DECORATION: none
+}
+A.tablebodylink:hover {
+	TEXT-DECORATION: underline
+}
+.tableheadlink {
+	COLOR: #e0cd61
+}
+.tableheadlink {
+	TEXT-DECORATION: none
+}
+A.tableheadlink:hover {
+	TEXT-DECORATION: underline
+}
+.listtablelink {
+	FONT-SIZE: 12px; COLOR: #255bcb; FONT-FAMILY: Tahoma
+}
+.listtablelink {
+	TEXT-DECORATION: none
+}
+A.listtablelink:hover {
+	TEXT-DECORATION: underline
+}
+.text {
+	FONT-SIZE: 12px; COLOR: #686940; FONT-FAMILY: Tahoma
+}
+.errorcolor {
+	COLOR: red
+}
+.successcolor {
+	COLOR: green
+}
+.errormessage {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Tahoma
+}
+.inputtext {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputtextarea {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputselect {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputcheckbox {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputradio {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputfile {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputbutton {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputbodybutton {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.inputtext {
+	BORDER-RIGHT: #232e33 1px solid; BORDER-TOP: #232e33 1px solid; BORDER-LEFT: #232e33 1px solid; BORDER-BOTTOM: #232e33 1px solid
+}
+.inputbodybutton {
+	BACKGROUND-COLOR: #d7cc98
+}
+.searcharea {
+	BACKGROUND-COLOR: #e5e2bd
+}
+.starrequired {
+	FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.required {
+	FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.logo1 {
+	FONT-SIZE: 24px; COLOR: #867f5b; LINE-HEIGHT: 24px; FONT-FAMILY: Verdana
+}
+.logo2 {
+	FONT-SIZE: 24px; COLOR: #867f5b; LINE-HEIGHT: 24px; FONT-FAMILY: Verdana
+}
+.logo2 {
+	FONT-SIZE: 9px; COLOR: #726a4d; LINE-HEIGHT: 9px; FONT-FAMILY: arial
+}
+.links {
+	FONT-SIZE: 9px; COLOR: #726a4d; LINE-HEIGHT: 9px; FONT-FAMILY: arial
+}
+.menulinks {
+	FONT-SIZE: 9px; COLOR: #726a4d; LINE-HEIGHT: 9px; FONT-FAMILY: arial
+}
+.links2 {
+	FONT-SIZE: 9px; COLOR: #726a4d; LINE-HEIGHT: 9px; FONT-FAMILY: arial
+}
+.links {
+	COLOR: #f7efd1; TEXT-DECORATION: none
+}
+.menulinks {
+	TEXT-TRANSFORM: uppercase; COLOR: #eadd9f; TEXT-DECORATION: none
+}
+.bmenulinks {
+	COLOR: #eadd9f; TEXT-DECORATION: none
+}
+.links2 {
+	COLOR: #50492f
+}
+BODY {
+	MARGIN: 0px; BACKGROUND-COLOR: #a3915e
+}
+.header {
+	BACKGROUND-IMAGE: url(images/tiling_header.gif); HEIGHT: 180px
+}
+.navigation {
+	LEFT: 583px; WIDTH: 155px; POSITION: absolute; TOP: 107px
+}
+.main {
+	BACKGROUND-IMAGE: url(images/bg_main.gif); BACKGROUND-REPEAT: no-repeat
+}
+.flash {
+	LEFT: 0px; WIDTH: 292px; POSITION: absolute; TOP: 180px
+}
+.column {
+	BACKGROUND-IMAGE: url(images/bg3.gif); MARGIN-LEFT: 292px; WIDTH: 448px
+}
+A {
+	COLOR: #255bcb; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.copyrights {
+	FONT-SIZE: 11px; COLOR: #786c49; FONT-FAMILY: Tahoma
+}
+.td {
+	FONT-SIZE: 11px; COLOR: #b3b58d; FONT-FAMILY: Tahoma
+}
+.text1 {
+	FONT-SIZE: 11px; COLOR: #686940; FONT-FAMILY: Tahoma
+}
+.text2 {
+	FONT-SIZE: 12px; COLOR: #255bcb; FONT-FAMILY: Tahoma
+}
+.mtext {
+	FONT-SIZE: 10px; COLOR: #686940; FONT-FAMILY: Verdana
+}
+.mtext {
+	TEXT-DECORATION: none
+}
